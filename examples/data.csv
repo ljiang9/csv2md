@@ -1,0 +1,6 @@
+name,description,notes
+"小红","喜欢吃苹果,香蕉和橙子","第一行
+第二行（多行单元格）"
+"Tom|Jerry","工程师","CJK 测试：中文字符"
+"","空名字","空单元格"
+"quoted ""inner"" quotes","a|b|c","引号与竖线混合"
